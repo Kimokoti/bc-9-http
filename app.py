@@ -13,7 +13,7 @@ def get_data(cities):
 	return results
 		
 
-cities = ["Nairobi", "Kampala", "Lagos", "London", "Amsterdam", "Djamema", "Bungoma"]
+cities = ["Nairobi", "Kampala", "Lagos", "London", "Amsterdam", "Djamena", "Bungoma"]
 data = get_data(cities)
 print "City".ljust(16), 
 print "Temp".ljust(16), 
